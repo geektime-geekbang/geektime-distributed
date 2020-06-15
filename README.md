@@ -1,1 +1,1 @@
-# geektime-distributed
+# 极客时间《分布式系统案例课》学习资料
